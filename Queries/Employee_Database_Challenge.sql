@@ -46,3 +46,9 @@ ON (e.emp_no = ti.emp_no)
 WHERE (e.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 AND (de.to_date = '9999-01-01')
 ORDER BY e.emp_no;
+
+--Added query for sum of counts for employees eligible for retirement
+--that will need to be replaced
+SELECT sum(count) AS "Total Roles"
+INTO total_roles
+FROM retiring_titles;

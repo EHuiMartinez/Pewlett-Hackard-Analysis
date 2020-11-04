@@ -23,7 +23,6 @@ Provide high-level responses to the following questions, then provide two additi
 
 A total of 90,398 roles will need to be filled.
 
-![total_roles.png](Data/total_roles.png)
 
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes, currently there are 90,398 retirement-ready employees and 1,549 employees are eligible for the mentorship program.  There will be a limit to how many new employees can start at once since there's a large number of expected new hires to back-fill the vacancies.
 
